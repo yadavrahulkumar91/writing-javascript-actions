@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Rahul Kumar Yadav</title>
+	</head>
+	<body>
+		<p id="demo">Contents here</p>
+		<script>
+		var n=date();
+		document.getElementById("demo").innerHTML=n;
+
+		</script>
+	</body>
+</html>
