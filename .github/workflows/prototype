@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>Rahul Kumar Yadav</title></head>
+<body>
+<p id="demo"></p>
+<script>
+boolean.prototype.myname=function{ 
+    if (this.valueOf()==true) {return Rahul;}
+    else if {return Not go}; 
+};    
+var x=true;
+document.getElementById("demo").innerHTML=x.myname();
+</script>
+</body>
+</html>
